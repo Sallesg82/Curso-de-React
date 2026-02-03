@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Aprendendo JavaScript</title>
+
+    <script type="text/JavaScript" src="script.js"></script>
+</head>
+
+<body>
+    
+    <div id="bem-vindo">
+        Olá
+    </div>
+
+    <br/><br/>
+
+    <button onclick="
+    document.getElementById('bem-vindo').innerHTML = 'Olá ' + prompt('Qual seu nome?'); "
+    >Entrar</button>
+
+    <br><br>
+
+    <!------------------------------------------------->
+    
+    <button onclick="this.innerHTML = prompt('Qual o nome do botão?'); ">Mudar nome do botão</button>
+
+</body>
+
+</html>
