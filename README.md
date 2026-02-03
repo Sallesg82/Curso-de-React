@@ -1,0 +1,1 @@
+A poucos dias atrás dei inicío a um curso de React JS para estudar para front-end e utilizar ele dentro da empresa onde estou fazendo estágio, ACERTI Consultoria. Lá me passaram esse treinamento para que eu possa conseguir ajudar eles no desenvolvimento da nossa plataforma .\Manda (Amanda).
