@@ -8,4 +8,3 @@ function temporizador() {
 var timer = setInterval(acao, 1000);
 
 //setTimeout(acao, 3000);
-onlanguagechange;
