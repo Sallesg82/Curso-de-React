@@ -1,3 +1,3 @@
 function temporizador() {
-  document.write;
+  document.writeln("Olá");
 }
